@@ -1,0 +1,1 @@
+this program uses binary searching to find the index of an array at which the specified number is located.
